@@ -1,0 +1,34 @@
+# Assignment 4 feedback
+
+## Submitter metadata
+
+Partner 1: Firstname Lastname (NetID)  - Tony Kariuki (akk85)
+Partner 2: Firstname Lastname (NetID)  - Kofi Ohene (kao65)
+
+Hours spent working on this assignment: 37hrs
+
+## Verification questions
+
+Please use the `RpnParser` program to answer these questions:
+
+1. How many operations are required to evaluate this expression for the surface area of a dodecahedron?
+   `3 25 10 5 sqrt() * + sqrt() * edges 2 ^ *`
+
+   Answer: 7
+
+2. How many operations are required to evaluate the optimized form of that expression?
+
+   Answer: 0
+
+## Reflection questions
+
+1. What part of the assignment did you find the trickiest to understand or get working?
+   Was there a particular insight or diagnostic technique that lead to a breakthrough?
+
+   Answer: RpnParser was quite the most challenging part to work on. The handout was quite
+           comprehensive and detailed but encompassed a lot of information. We decided to break out
+           this assignment section into smaller sections and tackle those separately and
+           then later join the conditions using the if else statement conditions. Also writing
+           comments for each step helped a lot since we would mostly debug the code by looking at
+           the handout comments and seeing whether each comment was properly tackled.
+

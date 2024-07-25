@@ -1,0 +1,37 @@
+# Assignment 4 reflection
+
+## Submitter metadata
+
+Partner 1: Firstname Lastname (NetID)  - Tony Kariuki (akk85)
+
+
+Hours spent working on this assignment: 0.0  - 6Hrs
+
+## Verification questions
+
+1. When an error occurs while trying to save a score to a file (for example,
+   choosing a file in a read-only system directory), what is the message that is
+   shown in your error dialog?  (note: answers will vary depending on your
+   operating system).
+
+   Answer: FileNotFoundException
+
+## Reflection questions
+
+1. Which of the Swing tutorial pages did you find the most interesting and/or
+   helpful while implementing your graphical application?
+
+   Answer: Laying out components within a container. This was an interesting task as it basically
+   showcased how to use and write custom layout managers for our program window.
+
+2. Are you aware of any areas where your submission is not working as intended?
+   If so, describe the issue and what you did to try to diagnose it.  Otherwise,
+   describe how you verified that your submission fulfilled its requirements.
+
+   Answer: I downloaded my submission into a new project and played the game testing all key areas.
+   I also tried to save the score in an new read-only file which gave the same error as expected.
+
+3. Did you embellish your program in any way?  If so, describe your changes /
+   improvements.
+
+   Answer: NO, I did not embellish my program in any way.
